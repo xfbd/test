@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+chromadb/
+model_cache/
+
+# Virtual environments
+.venv
+# doc文档
+使用说明书.pdf
